@@ -1,0 +1,20 @@
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe.config
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.pdb
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.xml
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Form1.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Resources.resources
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.GenerateResource.Cache
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.exe
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.xml
+c:\users\etec jd. ângela\documents\visual studio 2012\Projects\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.pdb
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe.config
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.exe
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.xml
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.pdb
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.pdb
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\bin\Debug\Valorant E-Sports.xml
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Form1.resources
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Resources.resources
+J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.GenerateResource.Cache
