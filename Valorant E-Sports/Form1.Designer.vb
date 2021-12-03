@@ -23,8 +23,8 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
-        Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.delete = New System.Windows.Forms.PictureBox()
         Me.update = New System.Windows.Forms.PictureBox()
@@ -35,32 +35,32 @@ Partial Class Form1
         Me.id = New System.Windows.Forms.TextBox()
         Me.label3 = New System.Windows.Forms.Label()
         Me.linha3 = New System.Windows.Forms.Label()
-        Me.player_btn = New System.Windows.Forms.PictureBox()
         Me.input3 = New System.Windows.Forms.TextBox()
         Me.label2 = New System.Windows.Forms.Label()
         Me.linha2 = New System.Windows.Forms.Label()
         Me.input2 = New System.Windows.Forms.TextBox()
         Me.label1 = New System.Windows.Forms.Label()
-        Me.reg_btn = New System.Windows.Forms.PictureBox()
-        Me.tim_btn = New System.Windows.Forms.PictureBox()
         Me.linha1 = New System.Windows.Forms.Label()
         Me.input1 = New System.Windows.Forms.TextBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.tim_btn = New System.Windows.Forms.PictureBox()
+        Me.reg_btn = New System.Windows.Forms.PictureBox()
+        Me.player_btn = New System.Windows.Forms.PictureBox()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Panel1.SuspendLayout()
         CType(Me.delete, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.update, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.read, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.create, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.player_btn, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.reg_btn, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.tim_btn, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel2.SuspendLayout()
+        CType(Me.tim_btn, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.reg_btn, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.player_btn, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Panel1
@@ -154,7 +154,7 @@ Partial Class Form1
         '
         Me.id.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(84, Byte), Integer))
         Me.id.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.id.Font = New System.Drawing.Font("Ubuntu", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.id.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.id.ForeColor = System.Drawing.Color.White
         Me.id.Location = New System.Drawing.Point(36, 97)
         Me.id.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
@@ -181,23 +181,11 @@ Partial Class Form1
         Me.linha3.Size = New System.Drawing.Size(160, 1)
         Me.linha3.TabIndex = 15
         '
-        'player_btn
-        '
-        Me.player_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
-        Me.player_btn.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.player_btn.Image = Global.Valorant_E_Sports.My.Resources.Resources.jogador
-        Me.player_btn.Location = New System.Drawing.Point(20, 9)
-        Me.player_btn.Name = "player_btn"
-        Me.player_btn.Size = New System.Drawing.Size(36, 36)
-        Me.player_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.player_btn.TabIndex = 5
-        Me.player_btn.TabStop = False
-        '
         'input3
         '
         Me.input3.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(84, Byte), Integer))
         Me.input3.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.input3.Font = New System.Drawing.Font("Ubuntu", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.input3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.input3.ForeColor = System.Drawing.Color.White
         Me.input3.Location = New System.Drawing.Point(37, 293)
         Me.input3.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
@@ -228,7 +216,7 @@ Partial Class Form1
         '
         Me.input2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(84, Byte), Integer))
         Me.input2.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.input2.Font = New System.Drawing.Font("Ubuntu", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.input2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.input2.ForeColor = System.Drawing.Color.White
         Me.input2.Location = New System.Drawing.Point(36, 223)
         Me.input2.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
@@ -247,30 +235,6 @@ Partial Class Form1
         Me.label1.TabIndex = 11
         Me.label1.Text = "Nome"
         '
-        'reg_btn
-        '
-        Me.reg_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
-        Me.reg_btn.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.reg_btn.Image = CType(resources.GetObject("reg_btn.Image"), System.Drawing.Image)
-        Me.reg_btn.Location = New System.Drawing.Point(172, 9)
-        Me.reg_btn.Name = "reg_btn"
-        Me.reg_btn.Size = New System.Drawing.Size(36, 36)
-        Me.reg_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.reg_btn.TabIndex = 6
-        Me.reg_btn.TabStop = False
-        '
-        'tim_btn
-        '
-        Me.tim_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
-        Me.tim_btn.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.tim_btn.Image = Global.Valorant_E_Sports.My.Resources.Resources.time
-        Me.tim_btn.Location = New System.Drawing.Point(96, 9)
-        Me.tim_btn.Name = "tim_btn"
-        Me.tim_btn.Size = New System.Drawing.Size(36, 36)
-        Me.tim_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.tim_btn.TabIndex = 4
-        Me.tim_btn.TabStop = False
-        '
         'linha1
         '
         Me.linha1.BackColor = System.Drawing.Color.FromArgb(CType(CType(249, Byte), Integer), CType(CType(249, Byte), Integer), CType(CType(249, Byte), Integer), CType(CType(249, Byte), Integer))
@@ -283,7 +247,7 @@ Partial Class Form1
         '
         Me.input1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(70, Byte), Integer), CType(CType(84, Byte), Integer))
         Me.input1.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.input1.Font = New System.Drawing.Font("Ubuntu", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.input1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.input1.ForeColor = System.Drawing.Color.White
         Me.input1.Location = New System.Drawing.Point(37, 160)
         Me.input1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
@@ -313,35 +277,6 @@ Partial Class Form1
         Me.PictureBox1.TabIndex = 1
         Me.PictureBox1.TabStop = False
         '
-        'DataGridView1
-        '
-        Me.DataGridView1.AllowUserToAddRows = False
-        Me.DataGridView1.AllowUserToDeleteRows = False
-        Me.DataGridView1.AllowUserToOrderColumns = True
-        Me.DataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(27, Byte), Integer), CType(CType(34, Byte), Integer), CType(CType(41, Byte), Integer))
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle3.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.DataGridView1.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle3
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText
-        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.DataGridView1.DefaultCellStyle = DataGridViewCellStyle4
-        Me.DataGridView1.Location = New System.Drawing.Point(42, 28)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.ReadOnly = True
-        Me.DataGridView1.Size = New System.Drawing.Size(577, 418)
-        Me.DataGridView1.TabIndex = 1
-        '
         'Panel2
         '
         Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
@@ -352,6 +287,71 @@ Partial Class Form1
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(228, 54)
         Me.Panel2.TabIndex = 25
+        '
+        'tim_btn
+        '
+        Me.tim_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
+        Me.tim_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.tim_btn.Image = Global.Valorant_E_Sports.My.Resources.Resources.time
+        Me.tim_btn.Location = New System.Drawing.Point(96, 9)
+        Me.tim_btn.Name = "tim_btn"
+        Me.tim_btn.Size = New System.Drawing.Size(36, 36)
+        Me.tim_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.tim_btn.TabIndex = 4
+        Me.tim_btn.TabStop = False
+        '
+        'reg_btn
+        '
+        Me.reg_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
+        Me.reg_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.reg_btn.Image = CType(resources.GetObject("reg_btn.Image"), System.Drawing.Image)
+        Me.reg_btn.Location = New System.Drawing.Point(172, 9)
+        Me.reg_btn.Name = "reg_btn"
+        Me.reg_btn.Size = New System.Drawing.Size(36, 36)
+        Me.reg_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.reg_btn.TabIndex = 6
+        Me.reg_btn.TabStop = False
+        '
+        'player_btn
+        '
+        Me.player_btn.BackColor = System.Drawing.Color.FromArgb(CType(CType(242, Byte), Integer), CType(CType(53, Byte), Integer), CType(CType(68, Byte), Integer))
+        Me.player_btn.Cursor = System.Windows.Forms.Cursors.Hand
+        Me.player_btn.Image = Global.Valorant_E_Sports.My.Resources.Resources.jogador
+        Me.player_btn.Location = New System.Drawing.Point(20, 9)
+        Me.player_btn.Name = "player_btn"
+        Me.player_btn.Size = New System.Drawing.Size(36, 36)
+        Me.player_btn.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.player_btn.TabIndex = 5
+        Me.player_btn.TabStop = False
+        '
+        'DataGridView1
+        '
+        Me.DataGridView1.AllowUserToAddRows = False
+        Me.DataGridView1.AllowUserToDeleteRows = False
+        Me.DataGridView1.AllowUserToOrderColumns = True
+        Me.DataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(CType(CType(27, Byte), Integer), CType(CType(34, Byte), Integer), CType(CType(41, Byte), Integer))
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.DataGridView1.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.DataGridView1.DefaultCellStyle = DataGridViewCellStyle2
+        Me.DataGridView1.Location = New System.Drawing.Point(42, 28)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.ReadOnly = True
+        Me.DataGridView1.Size = New System.Drawing.Size(577, 418)
+        Me.DataGridView1.TabIndex = 1
         '
         'Form1
         '
@@ -371,13 +371,13 @@ Partial Class Form1
         CType(Me.update, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.read, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.create, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.player_btn, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.reg_btn, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.tim_btn, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel2.ResumeLayout(False)
+        CType(Me.tim_btn, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.reg_btn, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.player_btn, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub

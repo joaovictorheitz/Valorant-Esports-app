@@ -30,3 +30,16 @@ C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-S
 C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.exe
 C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.xml
 C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.pdb
+D:\Visual Studio Solutions\EV\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe.config
+D:\Visual Studio Solutions\EV\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe
+D:\Visual Studio Solutions\EV\Valorant E-Sports\bin\Debug\Valorant E-Sports.pdb
+D:\Visual Studio Solutions\EV\Valorant E-Sports\bin\Debug\Valorant E-Sports.xml
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.AssemblyReference.cache
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Form1.resources
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Resources.resources
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.GenerateResource.cache
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.CoreCompileInputs.cache
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.exe
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.xml
+D:\Visual Studio Solutions\EV\Valorant E-Sports\obj\Debug\Valorant E-Sports.pdb
+D:\Visual Studio Solutions\EV\Valorant E-Sports\bin\Debug\MySql.Data.dll
