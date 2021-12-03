@@ -18,3 +18,15 @@ J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\bin\Debu
 J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Form1.resources
 J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Resources.resources
 J:\etec\Desenvolvimento de Sistemas\Valorant E-Sports\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.GenerateResource.Cache
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe.config
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\bin\Debug\Valorant E-Sports.exe
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\bin\Debug\Valorant E-Sports.pdb
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\bin\Debug\Valorant E-Sports.xml
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.AssemblyReference.cache
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Form1.resources
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant_E_Sports.Resources.resources
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.GenerateResource.cache
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.vbproj.CoreCompileInputs.cache
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.exe
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.xml
+C:\Users\yeksax\Documents\ds\VE-DS4-BIM\Valorant E-Sports\obj\Debug\Valorant E-Sports.pdb

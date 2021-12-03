@@ -139,6 +139,18 @@
   <ItemGroup>
     <None Include="Resources\time.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-pngrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-plus-pngrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-pngrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
